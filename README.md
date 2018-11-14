@@ -1,1 +1,10 @@
 # Tugas-4
+1.a https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaBubbleSort.java
+1.b https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaInsertionSort.java
+1.c https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaSelectionSort.java
+1.d https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaMargeSort.java
+1.e https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaShellSort.java
+1.f https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaQuickSort.java
+1.g https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaLinearSearch.java
+1.h https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaBinarySearch.java
+1.i https://github.com/WANTHYE/Tugas-4/blob/master/AlgoritmaShellSort.java
